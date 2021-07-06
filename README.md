@@ -1,1 +1,1 @@
-# weather-app
+# modern-javascript-application
