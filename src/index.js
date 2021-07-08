@@ -1,4 +1,4 @@
-import { generateWeatherCard } from "/scripts/generateWeatherCard.js";
+import { generateWeatherCard } from "./generateWeatherCard.js";
 (()=>{
     
     document.getElementById("submit").addEventListener("click", function(){
