@@ -1,4 +1,4 @@
 export const initCounter = () => {
     let date = new Date();
-    counter = date.getDay();
+    let counter = date.getDay();
 }
