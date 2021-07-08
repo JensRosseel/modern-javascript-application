@@ -1,5 +1,5 @@
-export const initDay = () => {
-    switch(counter){
+export const initDay = (a) => {
+    switch(a){
         case 1:
             return 'Monday';
         case 2:
